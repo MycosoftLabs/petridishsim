@@ -1,0 +1,12 @@
+{
+  "name": "blackTrumpet",
+  "growthRate": 0.8,
+  "filamentThickness": 0.4,
+  "branchingProbability": 0.03,
+  "color": "#000000",
+  "edgeColor": "#696969",
+  "preferredAgar": "fungalAgar",
+  "mergeProbability": 0.2,
+  "isContaminant": false,
+  "antifungalStrength": 2
+}

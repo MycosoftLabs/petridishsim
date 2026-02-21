@@ -1,0 +1,12 @@
+{
+  "name": "pinkOyster",
+  "growthRate": 1.3,
+  "filamentThickness": 0.6,
+  "branchingProbability": 0.08,
+  "color": "#FFC0CB",
+  "edgeColor": "#FF69B4",
+  "preferredAgar": "dextrose",
+  "mergeProbability": 0.4,
+  "isContaminant": false,
+  "antifungalStrength": 1
+}

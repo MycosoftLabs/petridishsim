@@ -1,0 +1,12 @@
+{
+  "name": "cordyceps",
+  "growthRate": 0.8,
+  "filamentThickness": 0.3,
+  "branchingProbability": 0.03,
+  "color": "#FF8C00",
+  "edgeColor": "#FF4500",
+  "preferredAgar": "feces",
+  "mergeProbability": 0.1,
+  "isContaminant": false,
+  "antifungalStrength": 2
+}

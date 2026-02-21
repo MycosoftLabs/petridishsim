@@ -1,0 +1,12 @@
+{
+  "name": "oyster",
+  "growthRate": 1.2,
+  "filamentThickness": 0.7,
+  "branchingProbability": 0.07,
+  "color": "#87CEFA",
+  "edgeColor": "#1E90FF",
+  "preferredAgar": "dextrose",
+  "mergeProbability": 0.4,
+  "isContaminant": false,
+  "antifungalStrength": 1
+}

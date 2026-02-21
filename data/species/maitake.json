@@ -1,0 +1,12 @@
+{
+  "name": "maitake",
+  "growthRate": 1.1,
+  "filamentThickness": 0.6,
+  "branchingProbability": 0.06,
+  "color": "#708090",
+  "edgeColor": "#2F4F4F",
+  "preferredAgar": "fungalAgar",
+  "mergeProbability": 0.35,
+  "isContaminant": false,
+  "antifungalStrength": 2
+}

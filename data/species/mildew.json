@@ -1,0 +1,11 @@
+{
+  "name": "mildew",
+  "growthRate": 1.2,
+  "filamentThickness": 0.3,
+  "branchingProbability": 0.08,
+  "color": "#CCCCCC",
+  "edgeColor": "#888888",
+  "preferredAgar": "any",
+  "mergeProbability": 0.5,
+  "isContaminant": true
+}

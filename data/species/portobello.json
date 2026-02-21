@@ -1,0 +1,12 @@
+{
+  "name": "portobello",
+  "growthRate": 0.9,
+  "filamentThickness": 0.6,
+  "branchingProbability": 0.04,
+  "color": "#8B4513",
+  "edgeColor": "#A0522D",
+  "preferredAgar": "maltExtract",
+  "mergeProbability": 0.25,
+  "isContaminant": false,
+  "antifungalStrength": 1
+}

@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "petridishsim"
+version = "0.1.0"
+description = "Petri Dish Simulator chemical and segmentation service"
+authors = ["Mycosoft"]
+readme = "README.md"
+packages = [
+  { include = "chemical", from = "src" },
+  { include = "segmentation", from = "src" },
+  { include = "calibration", from = "src" }
+]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+numpy = "*"
+scipy = "*"
+numba = "*"
+fastapi = "*"
+uvicorn = "*"
+onnxruntime = "*"
+python-multipart = "*"
+pillow = "*"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

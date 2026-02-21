@@ -1,0 +1,12 @@
+{
+  "name": "morel",
+  "growthRate": 1.2,
+  "filamentThickness": 0.5,
+  "branchingProbability": 0.07,
+  "color": "#D2B48C",
+  "edgeColor": "#BC8F8F",
+  "preferredAgar": "sabouraud",
+  "mergeProbability": 0.4,
+  "isContaminant": false,
+  "antifungalStrength": 2
+}

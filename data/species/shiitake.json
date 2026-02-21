@@ -1,0 +1,12 @@
+{
+  "name": "shiitake",
+  "growthRate": 1.0,
+  "filamentThickness": 0.5,
+  "branchingProbability": 0.05,
+  "color": "#A0522D",
+  "edgeColor": "#FF6347",
+  "preferredAgar": "charcoal",
+  "mergeProbability": 0.2,
+  "isContaminant": false,
+  "antifungalStrength": 2
+}

@@ -1,0 +1,12 @@
+{
+  "name": "buttonMushroom",
+  "growthRate": 1.0,
+  "filamentThickness": 0.5,
+  "branchingProbability": 0.05,
+  "color": "#F5F5DC",
+  "edgeColor": "#DEB887",
+  "preferredAgar": "maltExtract",
+  "mergeProbability": 0.3,
+  "isContaminant": false,
+  "antifungalStrength": 1
+}

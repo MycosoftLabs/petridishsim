@@ -1,0 +1,11 @@
+{
+  "name": "virus",
+  "growthRate": 0.5,
+  "filamentThickness": 0.1,
+  "branchingProbability": 0.05,
+  "color": "#FF00FF",
+  "edgeColor": "#8B008B",
+  "preferredAgar": "any",
+  "mergeProbability": 0.8,
+  "isContaminant": true
+}

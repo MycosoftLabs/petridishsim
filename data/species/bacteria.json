@@ -1,0 +1,11 @@
+{
+  "name": "bacteria",
+  "growthRate": 2.0,
+  "filamentThickness": 0.2,
+  "branchingProbability": 0.2,
+  "color": "#FFFF00",
+  "edgeColor": "#FFD700",
+  "preferredAgar": "blood",
+  "mergeProbability": 0.6,
+  "isContaminant": true
+}

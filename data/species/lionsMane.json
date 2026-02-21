@@ -1,0 +1,12 @@
+{
+  "name": "lionsMane",
+  "growthRate": 1.1,
+  "filamentThickness": 0.6,
+  "branchingProbability": 0.06,
+  "color": "#FFFFFF",
+  "edgeColor": "#F0E68C",
+  "preferredAgar": "blood",
+  "mergeProbability": 0.35,
+  "isContaminant": false,
+  "antifungalStrength": 1
+}

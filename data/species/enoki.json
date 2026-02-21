@@ -1,0 +1,12 @@
+{
+  "name": "enoki",
+  "growthRate": 0.9,
+  "filamentThickness": 0.4,
+  "branchingProbability": 0.04,
+  "color": "#FFFACD",
+  "edgeColor": "#FFD700",
+  "preferredAgar": "blood",
+  "mergeProbability": 0.3,
+  "isContaminant": false,
+  "antifungalStrength": 1
+}
